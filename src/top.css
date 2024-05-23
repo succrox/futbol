@@ -1,0 +1,85 @@
+.navbar-black{
+    background-color: #424242;
+    color: #cecece;
+}
+
+.image-no-bg{
+    background: none;
+    background-color: transparent;
+    border: none;
+    display: block;
+    max-width: 100%; 
+    height: auto;
+}
+
+.navbar {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.navbar-logo {
+    height: 90px;
+    margin-right: 55%;
+}
+
+.container-fluid {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    padding: 0 15px;
+    width: 100%;
+    max-width: 100%;
+}
+
+.navbar-info-row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 1; /* Hace que las filas ocupen todo el espacio disponible */
+}
+
+.navbar-info {
+    font-size: 20px;
+}
+
+
+.navbar-info-dark {
+    font-size: 15px;
+    color: #969595;
+    
+}
+
+.navbar-info-container{
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.row-right-span{
+    font-size: 20px;
+    margin: 4px;
+    color: #969595;
+}
+
+.row-left-hover{
+    font-size: 20px;
+    margin: 4px;
+}
+
+.row-left-hover:hover{
+    font-size: 22px;
+    margin: 6px;
+    color: #efefef;
+}
+
+.info-row-right{
+    display: flex;
+    justify-content: end;
+}
+
+.info-row-searchbar{
+    background-color: #2c2c2c;
+    color: #969595;
+    border: none;
+}

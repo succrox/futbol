@@ -1,0 +1,41 @@
+.footer{
+  display: flex;
+  justify-content: center;
+}
+
+.footer-center{
+  background-color: white;
+  width: 30%;
+  border-radius: 2px;
+}
+
+.bi-twitter-x{
+  background-color: #00d0fa;
+  border-radius: 2px;
+  margin: 10px;
+  color: white;
+}
+.bi-pinterest{
+  background-color: #e00000;
+  border-radius: 2px;
+  margin: 10px;
+  color: white;
+}
+.bi-envelope{
+  background-color: #6d6d6d;
+  border-radius: 2px;
+  margin: 10px;
+  color: white;
+}
+.bi-facebook{
+  background-color: #0041bb;
+  border-radius: 2px;
+  margin: 10px;
+  color: white;
+}
+.bi-telegram{
+  background-color: #00d0fa;
+  border-radius: 2px;
+  margin: 10px;
+  color: white;
+}
